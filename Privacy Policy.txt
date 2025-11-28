@@ -1,0 +1,72 @@
+Effective Date: 28 November 2025
+Last Updated: 28 November 2025
+TXAZ Consulting Services respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and disclose personal information in accordance with Arizona state law and applicable U.S. federal laws.
+
+1. Information We Collect
+We may collect the following types of information:
+a. Personal Information
+* Name, email address, phone number, postal address
+* Date of birth, government-issued identification numbers (e.g., driver’s license, Social Security number)
+* Financial information (e.g., credit/debit card, bank account)
+b. Non-Personal Information
+* IP address, device type, browser type, operating system
+* Website usage information (pages visited, time spent, links clicked)
+c. Special Categories (if applicable)
+* Health information protected under HIPAA
+* Information about children under 13 collected only with parental consent, per COPPA
+
+2. How We Use Your Information
+We may use your information to:
+* Provide and improve our services
+* Communicate with you regarding your account or transactions
+* Process payments and billing
+* Send marketing communications (with consent, where required)
+* Comply with legal obligations
+* Protect against fraud, unauthorized transactions, or security threats
+
+3. How We Share Your Information
+We do not sell personal information. We may share information with:
+* Service providers and contractors who assist with business operations
+* Legal authorities when required by law, court order, or government request
+* Business partners with your consent
+* Other parties in connection with a merger, sale, or acquisition
+
+4. Your Rights
+Under Arizona law and federal regulations, you may have the following rights:
+* Access and Correction: Request copies of personal information we hold about you and correct inaccuracies
+* Deletion: Request deletion of personal information, subject to legal retention requirements
+* Opt-Out: Opt-out of marketing communications or sale of information (where applicable)
+* Data Portability: Request your personal data in a portable, machine-readable format
+* Breach Notification: Receive timely notice if your personal information is compromised in a security breach
+Note: Certain rights may be limited under federal laws such as HIPAA, GLBA, or COPPA.
+
+5. Data Security
+We implement administrative, technical, and physical safeguards to protect your information. Despite these measures, no system is completely secure. In the event of a breach, we will comply with Arizona Revised Statutes § 18-552 (breach notification) and federal reporting obligations.
+
+6. Data Retention
+We retain personal information only as long as necessary to fulfill the purposes outlined in this policy, comply with legal obligations, resolve disputes, enforce agreements, or as otherwise required by law.
+
+7. Cookies and Tracking
+Our website and services may use cookies and similar tracking technologies to improve user experience, analyze usage, and provide targeted content. You may manage cookies through your browser settings.
+
+8. Children’s Privacy
+We do not knowingly collect personal information from children under 13 without parental consent. If you believe we have collected such information, please contact us to request deletion.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. The ‘Effective Date’ at the top will reflect the most recent revision. Material changes will be posted on our website or communicated via email.
+
+10. Contact Information
+If you have questions or concerns about this Privacy Policy or your personal information, please contact:
+TXAZ Consulting Services 
+Email: tim.hoffman@txazconsultingservices.com
+Phone: 480 331-2214
+Address: 2631 S. Bristol Ave, Mesa, AZ 85209
+
+?? Legal Compliance Notes
+* Arizona: ARS § 18-552 requires notification of data breaches affecting Arizona residents.
+* HIPAA: Applies if you handle protected health information.
+* GLBA: Applies if your business is financial or collects financial data.
+* COPPA: Applies if you collect information from children under 13 online.
+* FTC: General privacy and security guidance for consumer protection.
+
+TXAZ Consulting Services Cybersecurity Division Privacy Policy
