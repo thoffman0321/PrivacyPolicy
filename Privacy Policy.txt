@@ -62,7 +62,7 @@ Email: tim.hoffman@txazconsultingservices.com
 Phone: 480 331-2214
 Address: 2631 S. Bristol Ave, Mesa, AZ 85209
 
-?? Legal Compliance Notes
+** Legal Compliance Notes
 * Arizona: ARS § 18-552 requires notification of data breaches affecting Arizona residents.
 * HIPAA: Applies if you handle protected health information.
 * GLBA: Applies if your business is financial or collects financial data.
